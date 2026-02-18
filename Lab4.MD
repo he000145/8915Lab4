@@ -1,8 +1,8 @@
 # CST8915 Lab 4: Docker
 
-**Student Name**: Yiming He
-**Student ID**: 041-282-545
-**Course**: CST8915 Full-stack Cloud-native Development
+**Student Name**: Yiming He  
+**Student ID**: 041-282-545  
+**Course**: CST8915 Full-stack Cloud-native Development  
 **Semester**: Winter 2026
 
 ---
